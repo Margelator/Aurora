@@ -14,7 +14,7 @@ export default {
   /**
    * 站点标题
    */
-  title: 'Welcome yanliang\'s blog',
+  title: 'Welcome Margulator\'s Blog',
   subtitle: '兽炉沈水烟 翠沼残花片' ,
 
   /**
@@ -113,25 +113,25 @@ export default {
     enableComment: true,
     qoute: '蝉鸣如雨，花宵道中',
     avatar: 'https://i.loli.net/2018/12/09/5c0cc2b4e0195.png',
-    graduated: 'University of Electronic Science and Technology of China (UESTC)',
-    college: 'Communication&Information Engineering',
+    graduated: 'Changzhou Vocational Institute of Light Industry', //'University of Electronic Science and Technology of China (UESTC)',
+    college: 'computer network Technology', //'Communication&Information Engineering',
     // 联系方式，可自由添加
     contact: [
       {
         icon: 'https://i.loli.net/2019/01/25/5c4b2a7558ad7.png',
-        link: 'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k'
+        link: 'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=8MHCxMXJwMHAwcKwgYHek5_d' //'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k'
       },
       {
         icon: 'https://i.loli.net/2019/01/25/5c4b2982b5687.png',
-        link: 'https://github.com/chanshiyucx'
+        link: 'https://github.com/Margelator' //'https://github.com/chanshiyucx'
       },
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc518dc4f4.png',
-        link: 'https://www.zhihu.com/people/ichanshiyu/activities'
+        link: 'https://www.zhihu.com/' //'https://www.zhihu.com/people/ichanshiyu/activities'
       },
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc51ae4f0c.png',
-        link: 'https://music.163.com/#/user/home?id=103060582'
+        link: 'https://music.163.com/#/user/home?id=574866616' //'https://music.163.com/#/user/home?id=103060582'
       }
     ]
   },
@@ -148,11 +148,11 @@ export default {
   qrcode: [
     {
       name: '支付宝',
-      img: 'https://i.loli.net/2019/04/27/5cc4744a2b0d2.png'
+      img: 'https://i.loli.net/2019/06/04/5cf659261425490629.jpg' //'https://i.loli.net/2019/04/27/5cc4744a2b0d2.png'
     },
     {
       name: '微信',
-      img: 'https://i.loli.net/2019/04/27/5cc4707401e0a.png'
+      img: 'https://i.loli.net/2019/06/04/5cf659261425490629.jpg' //'https://i.loli.net/2019/04/27/5cc4707401e0a.png'
     }
   ],
 
