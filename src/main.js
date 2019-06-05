@@ -65,7 +65,7 @@ new Vue({
 // 自定义控制台
 const labelStyle = 'color:#ffffff;line-height: 22px;'
 console.info(`%c ${config.title} %c`, `${labelStyle}background: #d68fe9;`, '', window.location.origin)
-console.info('%c Theme %c', `${labelStyle}background: #d68fe9;`, '', 'https://github.com/chanshiyucx/aurora')
+console.info('%c Theme %c', `${labelStyle}background: #d68fe9;`, '', 'https://github.com/Margelator/aurora')
 console.info('~❀~ 发现控制台报错请务必联系博主 ~❀~')
 console.log(
   '%c ',
