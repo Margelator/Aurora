@@ -32,8 +32,8 @@ export default {
     clientID: '3f052fc49119501b58fb',
     clientSecret: '703ef372a5bd2ab52d235eefaa88781782307055',
     repo: 'Comment', // 评论仓库地址
-    owner: 'Margulator',
-    admin: ['Margulator'],
+    owner: 'Margelator',
+    admin: ['Margelator'],
     distractionFreeMode: false // 是否开始无干扰模式【背景遮罩】
   },
 
