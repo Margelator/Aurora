@@ -171,16 +171,16 @@ export default {
    */
   APlayer: [
     {
-      name: 'うたかたの风と蝉时雨',
-      artist: 'Little Planet',
-      url: 'https://files.catbox.moe/wo7zjt.mp3',
-      cover: 'https://i.loli.net/2018/12/09/5c0cc3ca1081b.jpg'
+      name: '千梦',
+      artist: 'Aki阿杰/HITA',
+      url: 'https://files.catbox.moe/5gp5td.mp3',
+      cover: 'https://i.loli.net/2019/06/08/5cfb6d435c8fd64766.png'
     },
     {
-      name: '春の凑に',
-      artist: 'TUMENECO',
-      url: 'https://files.catbox.moe/ducy49.mp3',
-      cover: 'https://i.loli.net/2018/12/11/5c0f196d01a3a.jpg'
+      name: '牵丝戏',
+      artist: '银临/Aki阿杰',
+      url: 'https://files.catbox.moe/euvckx.mp3',
+      cover: 'https://i.loli.net/2019/06/08/5cfb6ed634e3437299.jpg'
     },
     {
       name: '夏阳炎',
