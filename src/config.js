@@ -14,7 +14,7 @@ export default {
   /**
    * 站点标题
    */
-  title: 'Welcome to Margulator\'s blog',
+  title: 'Margulator',
   subtitle: '兽炉沈水烟 翠沼残花片' ,
 
   /**
