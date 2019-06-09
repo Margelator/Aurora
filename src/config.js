@@ -164,7 +164,7 @@ export default {
   /**
    * 文章默认图
    */
-  defaultCover: 'https://i.loli.net/2019/01/24/5c49bd8dad2f5.jpg',
+  defaultCover: 'https://i.loli.net/2019/06/05/5cf7aefe6802a78043.jpg',
 
   /**
    * 音乐播放器,

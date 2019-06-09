@@ -53,7 +53,7 @@ export default {
     return {
       sakura,
       waifu: 'tia',
-      showWaifu: true,
+      showWaifu: false,
       textures: '',
       tipsTimer: '',
       tool: [
