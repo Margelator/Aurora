@@ -15,7 +15,7 @@
     "aos": "^3.0.0-beta.6",
     "fontfaceobserver": "^2.1.0",
     "gitalk": "^1.5.0",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.1.2",
     "ismobilejs": "^0.5.2",
     "leancloud-storage": "^3.13.2",
     "marked": "^0.6.2",
